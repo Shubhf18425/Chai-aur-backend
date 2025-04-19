@@ -1,1 +1,1 @@
-export constants DB_NAME = "videoname"
+// const export constants DB_NAME = "videoname"
