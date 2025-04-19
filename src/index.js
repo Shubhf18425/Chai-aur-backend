@@ -14,7 +14,7 @@ dotenv.config({
 
 
 
-import connectDB from "./db";
+import connectDB from "./db/index.js";
 
 connectDB();
 
